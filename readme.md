@@ -1,6 +1,7 @@
 ﻿# Gene Co-expression Network Construction and Analysis
 
 This is a Python package for the generation and analysis of Gene Co-expression Networks, which is based on the paper:
+
 Kuang, J., Buchon, N., Michel, K. et al. A global Anopheles gambiae gene co-expression network constructed from hundreds of experimental conditions with missing values. BMC Bioinformatics 23, 170 (2022).
  
 The source code is in the `src` folder and the executable file `GeCoNet_Tool.exe` is in: https://github.com/KSUNetSE/GeCoNet_Tool/releases.
